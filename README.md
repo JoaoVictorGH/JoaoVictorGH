@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm João Victor 👋
 
-<!--
-**JoaoVictorGH/JoaoVictorGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** with 7+ years of experience building and maintaining web systems and APIs.
 
-Here are some ideas to get you started:
+## 🛠️ Tech stack
+- **Frontend:** React, JavaScript, HTML, CSS (also Angular, Vue.js, jQuery)
+- **Backend:** Node.js, PHP, Laravel, REST APIs
+- **Database:** MySQL, SQL
+- **Tools:** Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+TypeScript · Next.js · Testing · AWS fundamentals · English
+
+## 🔗 Links
+[Portfolio](https://joaovictorgh.github.io/Portifolio/) · [LinkedIn](https://www.linkedin.com/in/joaovictorhfs/) · joaovhfs@gmail.com
+
+📍 Brazil · 🌎 Open to remote and on-site (Uberaba-MG) opportunities
